@@ -1,7 +1,9 @@
 ## Hi there 👋
-Hello! I'm a full-stack web developer passionate about making swag websites. A lot of my work unfortunately isn't open source - however I do make some fun things from time to time that I'll add here.
+Hello! I'm a full-stack web developer since 2016, passionate about making swag websites. A lot of my work unfortunately isn't open source - however I do make some fun things from time to time that I'll add here.
 
-#### Languages and tools/software
+---
+
+### 🛠 Languages and tools/software
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -35,3 +37,15 @@ Hello! I'm a full-stack web developer passionate about making swag websites. A l
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" **alt="Google Cloud" width="40" height="40"/>
 </div>
+
+---
+
+### 📊 GitHub statistics
+![Eqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=3q1&show_icons=true&theme=tokyonight)
+
+---
+
+<p align="center">                           
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=3q1" alt="Visitors">
+  <a href="https://github.com/3q1"><img align="center" src="https://img.shields.io/github/followers/3q1.svg?style=social&label=Follow&maxAge=2592000" alt="Follow me"></a>
+</p>
