@@ -24,6 +24,8 @@ Hello! I'm a full-stack web developer passionate about making swag websites. A l
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Windows Server" alt="Windows Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-circle.svg" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mozilla/protocol-assets/blob/main/logos/firefox/browser/developer/logo.svg" title="Firefox DevTools" alt="Firefox DevTools" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
