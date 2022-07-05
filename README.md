@@ -1,8 +1,5 @@
 # Hi there 👋
 Hello! I'm a full-stack web developer since 2016, passionate about making swag websites. A lot of my work unfortunately isn't open source - however I do make some fun things from time to time that I'll add here.
-
-<img src="github-img.png" height="300">
-
 ---
 
 ### 🛠 Languages and tools/software
@@ -28,7 +25,6 @@ Hello! I'm a full-stack web developer since 2016, passionate about making swag w
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Windows Server" alt="Windows Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-circle.svg" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mozilla/protocol-assets/blob/main/logos/firefox/browser/developer/logo.svg" title="Firefox DevTools" alt="Firefox DevTools" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
